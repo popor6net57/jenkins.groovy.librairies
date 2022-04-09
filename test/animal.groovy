@@ -1,4 +1,4 @@
-package Animal;
+package cs.jenkins.demo;
 
 class Animal {
    String name;
