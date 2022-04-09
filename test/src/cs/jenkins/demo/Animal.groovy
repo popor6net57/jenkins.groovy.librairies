@@ -6,6 +6,7 @@ class Animal {
 
    public Animal(String name, String kind = "dog"){
     this.name = name;
+    this.kind = kind;
    }
 
 }
